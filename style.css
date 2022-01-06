@@ -283,7 +283,7 @@ a:hover {
     padding-left: 0;
 }
 
-#bloc-1-hero h1 {
+.bloc-1-hero h1 {
     font-size: 32px;
 }
 
@@ -702,6 +702,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    color: #321E0E;
 }
 
 h2 {
