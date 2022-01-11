@@ -114,7 +114,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
- color: #FFF;
+    color: #FFF;
 }
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
@@ -629,7 +629,7 @@ h4 {
 }
 .white {
     color: #FFF!important;
-    }
+}
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -662,8 +662,8 @@ h4 {
 }
 .color-degraded{
     background-image: linear-gradient( #f51d36, #f8dc75);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .btn-atomic-tangerine {
     background: #F3976C;
