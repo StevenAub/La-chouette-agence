@@ -941,9 +941,3 @@ blockquote{
     height: 270px;
     margin-top: 50px;
     }
-    @media (max-width: 767px){
-    .col-sm-6 img{
-    width: 300px;
-    height: 300px;
-    }
-    }
