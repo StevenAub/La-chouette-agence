@@ -556,7 +556,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757/*important*/;
+    color: black/*important*/;
 }
 .container {
     max-width: 1000px;
@@ -658,7 +658,7 @@ h4 {
     color: #FFFFFF!important;
 }
 .color-degraded{
-    background-image: linear-gradient( #f51d36, #f8dc75);
+    background-image: linear-gradient( #ff5b6e, #f8dc75);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -909,7 +909,7 @@ h4 {
 }
 /*modifs apporté*/
 .black{
-    color: black;
+    color: black !important;
 }
 blockquote{
     max-width:400px ;
@@ -922,7 +922,7 @@ blockquote{
     }
     @media (max-width: 767px){
     .col-sm-6 img{
-    width: 320px;
-    height: 320px;
+    width: 300px;
+    height: 300px;
     }
     }
