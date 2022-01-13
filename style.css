@@ -908,6 +908,14 @@ h4 {
     }
 }
 /*modifs apporté*/
+.navbar-header img{
+    width: 214px;
+    height: 40px;
+}
+.col-sm-12 img{
+    width: 100px;
+    height: 100px;
+}
 .black{
     color: black !important;
 }
